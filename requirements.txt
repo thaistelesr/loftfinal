@@ -3,6 +3,8 @@ numpy
 pandas
 streamlit==1.8.1
 catboost
+pycep_correios
+Geopy
 scipy
 fuzzywuzzy==0.18.0
 sklearn
